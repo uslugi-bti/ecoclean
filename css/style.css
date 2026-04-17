@@ -2180,7 +2180,7 @@ img.broken-image-fallback {
     object-fit: contain;
 }
 
-.relative img {
+.services-img>img {
     position: absolute;
     top: 50%;
     left: 50%;
