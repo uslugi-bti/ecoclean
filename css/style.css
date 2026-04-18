@@ -12,8 +12,8 @@ html {
         --color-green-200: oklch(.925 .084 155.995);
         --color-green-300: oklch(.871 .15 154.449);
         --color-green-400: oklch(.792 .209 151.711);
-        --color-green-500: oklch(.723 .219 149.579);
-        --color-green-600: oklch(.627 .194 149.214);
+        --color-green-500: #1F7A3A;
+        --color-green-600: #1F7A3A;
         --color-green-700: oklch(.527 .154 150.069);
         --color-emerald-50: oklch(.979 .021 166.113);
         --color-emerald-600: oklch(.596 .145 163.225);
