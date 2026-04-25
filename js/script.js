@@ -84,18 +84,18 @@
 // ========== ПОПАП ДЛЯ ПОРТФОЛІО (Роботи) ==========
 (function() {
     const portfolioItems = [
-        { category: "Офіс", title: "Бізнес-центр 'A-Class'", img: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800" },
-        { category: "Квартира", title: "ЖК 'RiverStone'", img: "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?auto=format&fit=crop&q=80&w=800" },
-        { category: "Комерція", title: "Ресторан 'Loft'", img: "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&q=80&w=800" },
-        { category: "Будинок", title: "Котедж в Конча-Заспі", img: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800" },
-        { category: "Вікна", title: "Миття панорамних вікон", img: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800" },
-        { category: "Хімчистка", title: "Відновлення дивану", img: "https://images.unsplash.com/photo-1540518614846-7eded433c457?auto=format&fit=crop&q=80&w=800" },
-        { category: "Офіс", title: "IT-хаб 'Space'", img: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800" },
-        { category: "Після ремонту", title: "Лофт апартаменти", img: "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&q=80&w=800" },
-        { category: "Квартира", title: "Студія в центрі Києва", img: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&q=80&w=800" },
-        { category: "Комерція", title: "Торговий центр", img: "https://images.unsplash.com/photo-1555529771-7888783a18d3?auto=format&fit=crop&q=80&w=800" },
-        { category: "Хімчистка", title: "Килим ручної роботи", img: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?auto=format&fit=crop&q=80&w=800" },
-        { category: "Будинок", title: "Заміський будинок", img: "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&q=80&w=800" }
+        { category: "Генеральне прибирання", title: "Ідеальна чистота в кожному куточку кухні.", img: "img/portfolio/01.jpg" },
+        { category: "Генеральне прибирання", title: "Сяюча чистота навіть у найскладніших місцях.", img: "img/portfolio/02.jpg" },
+        { category: "Генеральне прибирання", title: "Професійне обладнання для бездоганного результату прибирання.", img: "img/portfolio/03.jpg" },
+        { category: "Після ремонту", title: "Приберемо весь будівельний пил до блиску.", img: "img/portfolio/04.jpg" },
+        { category: "Після ремонту", title: "Готова до використання ванна без пилу.", img: "img/portfolio/05.jpg" },
+        { category: "Хімчистка", title: "Глибоке очищення оббивки для свіжості меблів.", img: "img/portfolio/06.jpg" },
+        { category: "Хімчистка", title: "Очищення дивана від плям та пилу.", img: "img/portfolio/07.jpg" },
+        { category: "Хімчистка", title: "Професійна чистка дивана: свіжість та чистота.", img: "img/portfolio/08.jpg" },
+        { category: "Генеральне прибирання", title: "Повертаємо затишок та охайність вашій кухні.", img: "img/portfolio/09.jpg" },
+        { category: "Після ремонту", title: "Очистимо кожен сантиметр після будівельних робіт.", img: "img/portfolio/10.jpg" },
+        { category: "Хімчистка", title: "Дбайливе видалення забруднень з вашої оббивки.", img: "img/portfolio/11.jpg" },
+        { category: "Генеральне прибирання", title: "Сяюча чистота та порядок у вітальні.", img: "img/portfolio/12.jpg" },
     ];
 
     // Стилі для попапу портфоліо
